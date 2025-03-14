@@ -1,0 +1,13 @@
+---
+title: "LMDI decomposition and macroeconomic drivers of electricity intensity in Madagascar"
+collection: publications
+category: working_papers
+permalink: /publication/2024-06-16-LMDI-decomposition-and-macroeconomic-drivers-of-electricity-intensity-in-Madagascar
+excerpt: # 'This paper is about fixing template issue #693.'
+date: 2024-06-16
+venue: 'SocArXiv Papers'
+paperurl: 'https://osf.io/gc5qe_v1/download/'
+citation: 'Franck Ramaharo (2024), &quot;LMDI decomposition and macroeconomic drivers of electricity intensity in Madagascar&quot;, <i>SocArXiv Papers</i>, No. <b>gc5qe</b>, Center for Open Science.'
+---
+
+This study employs the Logarithmic Mean Divisia Index (LMDI) decomposition method to analyze the drivers of overall electricity intensity in Madagascar over the period 2007-2022. The decomposition results reveal that the residential sector is the primary driver of overall electricity intensity, followed by the service and industry sectors. Notably, the industry sector has contributed to a decrease in intensity. Furthermore, the results indicate that the intensity effect has had a significant impact on increasing overall electricity intensity, whereas the structure effect has played a role in reducing total intensity. Building on these findings, we investigate the impact of key macroeconomic factors on the observed electricity intensity trend using the Auto Regressive Distributed Lag (ARDL) bounds testing approach with quarterly data over the same study period. The ARDL cointegrating approach estimation results reveal a long-run association between financial development, foreign direct investment, industry development, consumer energy inflation, and trade openness. Moreover, the long-run coefficients, which are further supported by the Dynamic Ordinary Least Squares (DOLS) estimates, indicate that financial development and trade openness have a positive and significant impact on electricity intensity in Madagascar, while foreign direct investment, industry development, and consumer energy inflation have a negative and significant impact, suggesting that these factors contribute to electricity efficiency. The Toda-Yamamoto non-causality approach uncovers unidirectional causal relationships, specifically from financial development, industrial development, and consumer energy inflation to electricity intensity, as well as from electricity intensity to foreign direct investment. These causal directions are further corroborated by the forecast-error variance decomposition, providing strong evidence for these relationships. These findings provide valuable insights for policymakers and stakeholders in Madagascar's energy sector, highlighting the importance of promoting energy efficiency initiatives.

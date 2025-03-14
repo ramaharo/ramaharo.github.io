@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Mosely Snowflake Sponge Fractal Project"
+excerpt: "This is part of the Origami Fractal Project we carried out in 2014, which I am especially proud of.<br/><img src='https://ramaharo.wordpress.com/wp-content/uploads/2014/06/cropped-102_5449.jpg' width='70%'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+More at [https://ramaharo.wordpress.com/portfolio/mosely-snowflake-sponge-fractal-project/](https://ramaharo.wordpress.com/portfolio/mosely-snowflake-sponge-fractal-project/)
+<img src='https://ramaharo.wordpress.com/wp-content/uploads/2014/06/cimg7864.jpg'>
+
+<img src='https://ramaharo.wordpress.com/wp-content/uploads/2014/06/cimg7809.jpg'>
+
+<img src='https://ramaharo.wordpress.com/wp-content/uploads/2014/06/dsc07513.jpg'>

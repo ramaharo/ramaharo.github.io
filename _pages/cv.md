@@ -11,41 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* MAs. in Development Economics, University of Clermont Auvergne, France, 2025 (expected)
+* MRes. in Mathematics, University of La Reunion, France, 2020
+* MSc. in Mathematics and Computer Science, University of Antananarivo, Madagascar, 2013
+* BSc. in Mathematics, University of Antananarivo, Madagascar, 2009
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since June 2017: Research Official
+  * Ministry of Economy and Finance, Madagascar
+  * My duties include  macroeconomic modeling and forecasting.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2016: Deputy Leader
+  * 57th International Mathematical Olympiad (IMO 2016)
+  * I was in charge of the Malagasy team for Madagascar's first participation in the 57th International Mathematics Olympiad in Hong Kong.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* From  2014 to 2020: Part-time Teaching and Research Assistant
+  * University of Antananarivo
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+ 
+{% comment %} 
   
 Talks
 ======
@@ -62,3 +56,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+{% endcomment %} 
