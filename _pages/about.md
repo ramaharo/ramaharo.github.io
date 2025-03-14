@@ -15,3 +15,5 @@ I am proud to be a graduate in Mathematics and Computer Science from the Univers
 Research interests
 ======
 I am interested in **macroeconomic modeling**. In Madagascar, simple macroeconomic models often face criticism for allegedly failing to capture the unique intricacies of the Malagasy economy. However, conducting complex modeling is challenging due to the limited availability of data. Personally, I have a particular affinity for (quasi-)accounting models, such as the IMF's **financial programming** approach, which I find both practical and insightful. Additionally, in response to the energy crisis facing our country, I have recently developed an interest in **integrated assessment modeling** as a means to address these pressing challenges. 
+
+I believe in **Open Science**.
