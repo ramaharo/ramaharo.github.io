@@ -27,9 +27,11 @@ Work experience
   * 57th International Mathematical Olympiad (IMO 2016)
   * I was in charge of the Malagasy team for [Madagascar's first participation in the 57th International Mathematics Olympiad](/portfolio/portfolio-3/) in Hong Kong.
 
-* From  2014 to 2020: Part-time Teaching and Research Assistant
+* From December 2014 to August 2020: Part-time Teaching and Research Assistant
   * University of Antananarivo
 
+* From Mars 2011 to February 2015: Content & SEO Assistant
+  * I initially worked as a SEO (Search Engine Optimization) intern at IIS Madagascar, and later, for four years, I took on freelance SEO projects. My tasks primarily involved managing blogs and strategically placing links across various platforms. 
   
 
 
