@@ -44,9 +44,9 @@ Miscellaneous
 ====== 
 
 In my free time, I enjoy exploring various creative hobbies.   
-* Handcrafts : I have a fondness for crafting, like making friendship bracelets. Some of my earlier creations are still available to view [here](https://friendship-bracelets.net/gallery?UserId=88422){:target="_blank"}.  
-* Modular Origami : I also love folding modular origami, which combines art and geometry in a fascinating way.  You can explore my blog showcasing these projects [here](https://ramaharo.wordpress.com){:target="_blank"}.  
-* Sixties and Rock Music : I am deeply fascinated by the culture and music of the 1960s, especially rock music. In the past, I ran a Tumblr blog where I curated and reblogged stunning black-and-white and color photographs from that era. While the blog is now outdated, it remains accessible [here](https://ramaharo.tumblr.com){:target="_blank"}.
+* Handcrafts : Some of my earlier creations are still available to view [here](https://friendship-bracelets.net/gallery?UserId=88422){:target="_blank"}.  
+* Modular Origami : You can explore my blog featuring my folding projects [here](https://ramaharo.wordpress.com){:target="_blank"}.  
+* Sixties and Rock Music : I am  fascinated by the culture and music of the 1960s, especially rock music. In the past, I ran a Tumblr blog where I curated and reblogged stunning black-and-white and color photographs from that era. While the blog is now outdated, it remains accessible [here](https://ramaharo.tumblr.com){:target="_blank"}.
        
     
   

@@ -1,5 +1,5 @@
 ---
-title: "Level 3 Menger Sponge Project"
+title: "Menger Sponge Project"
 excerpt: "This is also part of the Origami Fractal Project we carried out in 2014, which I am especially proud of.<br/><img src='https://ramaharo.wordpress.com/wp-content/uploads/2014/06/cropped-102_52271.jpg' width='70%'>"
 collection: portfolio
 ---
