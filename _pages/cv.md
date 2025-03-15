@@ -25,7 +25,7 @@ Work experience
 
 * July 2016: Deputy Leader
   * 57th International Mathematical Olympiad (IMO 2016)
-  * I was in charge of the Malagasy team for Madagascar's first participation in the 57th International Mathematics Olympiad in Hong Kong.
+  * I was in charge of the Malagasy team for [Madagascar's first participation in the 57th International Mathematics Olympiad](/portfolio/portfolio-3/) in Hong Kong.
 
 * From  2014 to 2020: Part-time Teaching and Research Assistant
   * University of Antananarivo
