@@ -34,7 +34,7 @@ Work experience
   * University of Antananarivo
   * I provided tutoring in Numerical Calculus for second-year Mathematics students. 
   * Between 2014 and 2018, I served as a Research Scholar at the Center for Economic Studies of the University of Antananarivo. My research involved developing programs to convert LaTeX equations into Dynare code, as well as designing and calibrating DSGE (Dynamic Stochastic General Equilibrium) models tailored to Madagascar's economy.  
-  * Apart from my teaching responsibilities, I also worked part-time at the Department of National Exams of the University of Antananarivo. From 2015 to 2018, I regularly served as the Chief Center for the Baccalaureate Exam, and in 2019, I took on the role of Supervisor. 
+  * Apart from my teaching responsibilities, I also worked part-time at the Department of National Exams of the University of Antananarivo. From 2015 to 2018, I regularly served as the Chief Center for the Baccalaureate Exam in different districts, and in 2019, I took on the role of Supervisor. 
   
 
 * From Mars 2011 to February 2015: Content & SEO Assistant
