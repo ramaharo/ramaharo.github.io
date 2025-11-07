@@ -4,7 +4,7 @@ collection: publications
 category: working_papers
 permalink: /publication/2025-10-09-The-asymmetric-impact-of-tourism-on-economic-growth-empirical-evidence-from-Madagascar
 excerpt: # 'This paper is about fixing template issue #693.'
-date: 2025-08-26
+date: 2025-10-09
 venue: 'Cambridge Open Engage Archive'
 paperurl: 'https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/68e668e55dd091524f69250d/original/the-asymmetric-impact-of-tourism-on-economic-growth-empirical-evidence-from-madagascar.pdf'
 citation: 'Franck Ramaharo (2025), &quot;The asymmetric impact of tourism on economic growth: empirical evidence from Madagascar&quot;, <i>Cambridge Open Engage Archive</i>, Cambridge University Press.'
