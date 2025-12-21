@@ -17,6 +17,8 @@ My passion for computer programming is anchored by a fascination with the [BASIC
 
 My [Erd&#337;s number](https://zbmath.org/collaboration-distance/?a=ramaharo.franck&b=erdos.paul){:target="_blank"} is **5**.
 
+In another timeline, I would be a librarian.
+
  
 Research interests
 ======
@@ -25,4 +27,3 @@ I am interested in **macroeconomic modeling**. In Madagascar, simple macroeconom
 In response to the energy crisis facing our country, I have recently developed an interest in **integrated assessment modeling** as a means to address these pressing challenges. My approach would be at the intersection or combination of **input-output modeling**, **stock-flow consistent (SFC) modeling**, and **system dynamics**, should I have the opportunity to engage in this work.
 
 I believe in **Open Science**.
-

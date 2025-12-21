@@ -50,6 +50,10 @@
 
 .page__content {
 
+  text-align: justify;
+  /* Optional: You can also add text-justify for better browser compatibility/hinting */
+  text-justify: inter-word;
+  
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid var(--global-border-color);
