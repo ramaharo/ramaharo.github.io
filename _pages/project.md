@@ -1,11 +1,14 @@
 ---
 layout: archive
-title: "Resources"
-permalink: /Resources/
+title: "Project"
+permalink: /project/
 author_profile: true
 ---
 
 {% include base_path %}
+
+Resources
+-----
 
 Useful links and economic research materials related to Madagascar.
 
