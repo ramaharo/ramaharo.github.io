@@ -7,7 +7,7 @@ excerpt: #'This paper is about the number 1. The number 2 is left for future wor
 date: 2023-10-27
 venue: 'Social Science Open Access Repository (SSOAR)'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://nbn-resolving.org/urn:nbn:de:0168-ssoar-90206-8'
+paperurl: 'https://www.ssoar.info/ssoar/bitstream/handle/document/90206/ssoar-2023-ramaharo_et_al-Determinants_of_renewable_energy_consumption.pdf'
 citation: 'Franck Ramaharo and Fitiavana Randriamifidy (2023). &quot;Determinants of renewable energy consumption in Madagascar: Evidence from feature selection algorithms&quot;, <i>Social Science Open Access Repository</i>, No. <b>90206</b>, GESIS Leibniz Institute for the Social Sciences .'
 ---
 
