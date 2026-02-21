@@ -8,7 +8,7 @@ date: 2022-02-28
 venue: 'Munich Personal RePEc Archive'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://mpra.ub.uni-muenchen.de/112114/9/MPRA_paper_112114.pdf'
-citation: 'Franck Ramaharo (2022). &quot;A simple macroeconomic framework for Madagascar&quot;, <i>MPRA Paper</i>, No. <b>112114</b>, University Library of Munich, Germany.'
+citation: 'Franck Ramaharo (2022), &quot;A simple macroeconomic framework for Madagascar&quot;, <i>MPRA Paper</i>, No. <b>112114</b>, University Library of Munich, Germany.'
 ---
 
 I present a simple model of macroeconomic accounting framework for the economy of Madagascar. The model is an identity-based framework that inherits the characteristics of the World Bank's Revised Minimum Standard Model and the International Monetary Fund's financial programming. Such models are mostly used for designing the macroeconomic framework of the budget laws of Madagascar.
