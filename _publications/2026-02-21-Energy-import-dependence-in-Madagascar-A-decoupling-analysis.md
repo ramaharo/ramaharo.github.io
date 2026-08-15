@@ -5,7 +5,7 @@ category: working_papers
 permalink: /publication/2026-02-21-Energy-import-dependence-in-Madagascar-A-decoupling-analysis
 excerpt: # 'This paper is about fixing template issue #693.'
 date: 2026-02-21
-venue: 'Cambridge Open Engage Archive'
+venue: 'Social Science Open Access Repository'
 paperurl: 'https://www.ssoar.info/ssoar/bitstream/handle/document/108387/ssoar-2026-ramaharo_et_al-Energy_import_dependence_in_Madagascar.pdf'
 citation: 'Franck Ramaharo and Rija Randriamanantena (2026), &quot;Energy import dependence in Madagascar: A decoupling analysis&quot;, <i>Social Science Open Access Repository</i>, No. <b>108387</b>, GESIS Leibniz Institute for the Social Sciences .'
 ---
