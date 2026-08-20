@@ -6,7 +6,7 @@ permalink: /publication/Nowcasting-Madagascar-s-real-GDP-using-machine-learning-
 excerpt: # 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'AfricArXiv Preprints'
-paperurl: 'https://osf.io/vpuac_v1/download/'
+paperurl: 'https://osf.io/vpuac_v1'
 citation: "Franck Ramaharo and Gerzhino Rasolofomanana (2023), &quot;Nowcasting Madagascar's real GDP using machine learning algorithms&quot;, <i>AfricArXiv Preprints</i>, No. <b>vpuac</b>, Center for Open Science."
 ---
 

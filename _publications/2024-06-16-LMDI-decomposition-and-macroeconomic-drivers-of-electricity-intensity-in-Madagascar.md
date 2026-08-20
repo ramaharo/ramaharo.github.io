@@ -6,7 +6,7 @@ permalink: /publication/2024-06-16-LMDI-decomposition-and-macroeconomic-drivers-
 excerpt: # 'This paper is about fixing template issue #693.'
 date: 2024-06-16
 venue: 'SocArXiv Papers'
-paperurl: 'https://osf.io/gc5qe_v1/download/'
+paperurl: 'https://osf.io/gc5qe_v1'
 citation: 'Franck Ramaharo (2024), &quot;LMDI decomposition and macroeconomic drivers of electricity intensity in Madagascar&quot;, <i>SocArXiv Papers</i>, No. <b>gc5qe</b>, Center for Open Science.'
 ---
 
