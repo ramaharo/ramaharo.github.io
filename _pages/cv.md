@@ -14,13 +14,20 @@ Download link for the [French version](https://drive.google.com/file/d/1CygMXscK
 Education
 ======
 
-* MAs. in Development Economics, University of Clermont Auvergne, France, 2025
-* MSc. in Mathematics, University of La Reunion, France, 2020
-* MRes. in Mathematics and Computer Science, University of Antananarivo, Madagascar, 2013
-* BSc. in Mathematics, University of Antananarivo, Madagascar, 2009
+* **MAs. in Development Economics**, Clermont Auvergne University, France, 2025<br>
+As part of the ''Economic Policy Management'' track (*Gestion de la politique économique - GPE*), I prepared a policy research note for the Minister under the supervision of Prof. [Michael Goujon](https://ferdi.fr/biographies/michael-goujon){:target="_blank"}.
+
+* **MSc. in Mathematics**, University of La Reunion, France, 2020<br>
+I had the fantastic opportunity to work on Logics, tournament and cycles with Prof. [Marianne Morillon](https://lim.univ-reunion.fr/staff/mar/){:target="_blank"} and  Prof. [Youssef Boudabbous](https://sites.google.com/view/youssefboudabbous){:target="_blank"}.
+
+* **MRes. in Mathematics and Computer Science**, University of Antananarivo, Madagascar, 2013<br>
+My Master's research in Computer-Aided Geometric Design focused on *Ball B-Spline Curves*, and was supervised by the late Prof. [Germain Randriambelosoa](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=311054){:target="_blank"}.
+
+* **BSc. in Mathematics**, University of Antananarivo, Madagascar, 2009
 
 Work experience
 ======
+
 * Since June 2017: Economist - Research Official, *Ministry of Economy and Finance*, Madagascar
   * My primary focus lies in macroeconomic modeling, quantitative policy evaluation, and short-term forecasting.. 
       - For econometric modeling, I apply both traditional and modern procedures, though analysis remains constrained by the limited length of annual time series in Madagascar. While using high-frequency data partially mitigates this constraint, series rarely extend back beyond 2007. 
@@ -65,7 +72,7 @@ Training
 > This course, presented by the Institute for Capacity Development, explains how to diagnose macroeconomic imbalances and correct them through a coordinated set of adjustment policies. It covers the principal features of the four main macroeconomic sectors (real, fiscal, external, and monetary) and their interlinkages, highlighting both accounting and behavioral relationships and using data from a country case study.
 > -[International Monetary Fund](https://www.imf.org/en/capacity-development/training/icdtc/courses/fpp)
 
-* **Application of the Fragility Prism in program development, design and implementation of national projects in fragile environments**,  African Development Bank, Dakar, Senega, December 15-19, 2019<br>
+* **Application of the Fragility Prism in program development, design and implementation of national projects in fragile environments**,  African Development Bank, with support from the Swiss Agency for Development and Cooperation (SDC), Dakar, Senegal, December 15-19, 2019<br>
 
     The workshop trained Bank experts, country managers, and economists on using the quantitative Country Resilience and Fragility Assessment (CRFA) tool to evaluate national capacity, analyze multi-dimensional pressures, and integrate resilience outcomes into project design and country strategy papers.
   
