@@ -21,8 +21,12 @@ Education
 
 Work experience
 ======
-* Since June 2017: Research Official, *Ministry of Economy and Finance*, Madagascar
-  * My duties include  macroeconomic modeling and forecasting. For the forecasting exercise, I developed mixed-frequency data sampling (MIDAS) models, and together with [Gerzhino Rasolofomanana](https://www.linkedin.com/in/gerzhino-h-rasolofomanana){:target="_blank"}, we implemented machine learning algorithms for [nowcasting purposes](https://arxiv.org/abs/2401.10255){:target="_blank"}. 
+* Since June 2017: Economist - Research Official, *Ministry of Economy and Finance*, Madagascar
+  * My primary focus lies in macroeconomic modeling, quantitative policy evaluation, and short-term forecasting.. 
+      - For econometric modeling, I apply both traditional and modern procedures, though analysis remains constrained by the limited length of annual time series in Madagascar. While using high-frequency data partially mitigates this constraint, series rarely extend back beyond 2007. 
+      - For simulation purposes, I have long relied on quasi-accounting models to simplify Madagascar's complex economic behavior through multiplier mechanisms. I later constructed Input-Output and other partial equilibrium models alongside Computable General Equilibrium (CGE).
+      - For the forecasting exercise, I developed mixed-frequency data sampling (MIDAS) models, and together with [Gerzhino Rasolofomanana](https://www.linkedin.com/in/gerzhino-h-rasolofomanana){:target="_blank"}, we implemented machine learning algorithms for [nowcasting purposes](https://arxiv.org/abs/2401.10255){:target="_blank"}. Our working paper was presented in the Africa Training Institute  of the International Monetary Fund's Peer-to-Peer Research Series webinar on Machine Learning for Nowcasting and Short-Term Forecasting in Sub-Saharan Africa, April 2026 ([Link to the webinar Recording](https://www.cvent.com/pub/eMarketing/Pages/WebEmail_New.aspx?emstub=936a394a-36cf-486b-9820-f28025505530)).
+  
   * I also contributed to the development of the *[Roadmap on the Demographic Dividend in Madagascar](https://web.archive.org/web/20250323120550/https://www.mef.gov.mg/assets/vendor/ckeditor/plugins/kcfinder/upload/files/FRDD%20DEMDIV%20%20finale_%20sans_tab.pdf){:target="_blank"}*. 
 
 
@@ -40,12 +44,30 @@ Work experience
   * I initially worked as a SEO (Search Engine Optimization) intern at IIS Madagascar, and later, for four years, I took on freelance SEO projects. My tasks primarily involved managing blogs and strategically placing links across various platforms. 
   
 
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Training
+====== 
+* **Global Climate Risk Analysis Course**, *Frankfurt School of Finance & Management*, Frankfurt am Main, Germany, June 15-19, 2025
+> The GCRA course was designed to help close the gap between increasingly sophisticated climate and disaster risk data and its effective use in policymaking, regulation, investment planning, and risk financing. ... By combining technical depth with policy relevance, the GCRA course aimed to help ensure that climate risk information is used more effectively to reduce vulnerability and strengthen resilience.
+> -[InsuResilience Solutions Fund](https://insuresilience-solutions-fund.org/2026/06/19/frankfurt-school-hosted-global-climate-risk-analysis-course-to-strengthen-climate-resilience-knowledge/)
+
+* **Nowcasting (NWC)**, *Africa Training Institute of the International Monetary Fund*, Ebene, Mauritius, April 08-19, 2024
+> This course, presented by the Institute for Capacity Development, provides participants with cutting-edge nowcasting tools that familiarize them with the concepts and methods to incorporate high-frequency economic indicators into the forecasting process, while integrating this training into technical assistance on data compilation and dissemination.
+> -[International Monetary Fund](https://www.imf.org/en/capacity-development/training/icdtc/courses/nwc)
+
+* **Financial Programming and Policies (FPP)**, *Africa Training Institute of the International Monetary Fund*, Ebene, Mauritius, Mars 15-26, 2023
+> This course, presented by the Institute for Capacity Development, explains how to diagnose macroeconomic imbalances and correct them through a coordinated set of adjustment policies. It covers the principal features of the four main macroeconomic sectors (real, fiscal, external, and monetary) and their interlinkages, highlighting both accounting and behavioral relationships and using data from a country case study.
+> -[International Monetary Fund](https://www.imf.org/en/capacity-development/training/icdtc/courses/fpp)
+
+* **Application of the Fragility Prism in program development, design and implementation of national projects in fragile environments**,  African Development Bank, Dakar, Senega, December 15-19, 2019<br>
+
+    The workshop trained Bank experts, country managers, and economists on using the quantitative Country Resilience and Fragility Assessment (CRFA) tool to evaluate national capacity, analyze multi-dimensional pressures, and integrate resilience outcomes into project design and country strategy papers.
   
 Miscellaneous
 ====== 
