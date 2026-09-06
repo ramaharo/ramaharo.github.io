@@ -6,7 +6,7 @@ permalink: /publication/2026-08-20-Additional-evidence-on Madagascar-s-tourism-l
 excerpt: # 'This paper is about fixing template issue #693.'
 date: 2026-08-20
 venue: 'SocArXiv Papers'
-paperurl: 'https://osf.io/preprints/socarxiv/6fpuy'
+paperurl: 'https://osf.io/download/6a86ef7bcc8a41632bdf4fa6/'
 citation: 'Franck Ramaharo (2026), &quot;Additional evidence on Madagascar&#39;s tourism-led growth hypothesis&quot;, <i>SocArXiv Papers</i>, No. <b>6fpuy</b>, Center for Open Science.'
 ---
 
