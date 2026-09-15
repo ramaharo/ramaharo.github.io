@@ -6,7 +6,7 @@ permalink: /publication/2026-09-06-EXTER-MADA_Un_MEGC_pour_l_analyse_des_politiq
 excerpt: # 'This paper is about fixing template issue #693.'
 date: 2026-09-06
 venue: 'Zenodo'
-paperurl: 'https://zenodo.org/records/22554590/files/EXTER-MADA_Un_MEGC_pour_l_analyse_des_politiques_economiques_a_Madagascar.pdf?download=1'
+paperurl: 'https://doi.org/10.5281/zenodo.22554589'
 citation: 'Franck Ramaharo (2026), &quot;EXTER-MADA : Un modèle d&#39;équilibre général calculable pour l&#39;analyse des politiques économiques à Madagascar&quot;, <i>Zenodo</i>, CERN Data Centre & InvenioRDM.'
 ---
 
