@@ -60,7 +60,12 @@ Publications
   
 Training
 ====== 
-* **Global Climate Risk Analysis Course**, *Frankfurt School of Finance & Management*, Frankfurt am Main, Germany, June 15-19, 2025
+* **Workshop on Extended Macroeconomic Forecasting Framework (EMFF)**,  *The Macroeconomic and Financial Management Institute of Eastern and Southern Africa (MEFMI)*, *The Southern African Development Community (SADC)*, Lilongwe, Malawi, October, 19-23, 2026
+
+    The workshop trained SADC Member States experts in adapting and customising the Extended
+Forecasting Framework and associated modelling approaches to their respective national circumstances, while ensuring its sustainable and long-term institutional integration.
+
+* **Global Climate Risk Analysis Course**, *Frankfurt School of Finance & Management*, Frankfurt am Main, Germany, June 15-19, 2026
 > The GCRA course was designed to help close the gap between increasingly sophisticated climate and disaster risk data and its effective use in policymaking, regulation, investment planning, and risk financing. ... By combining technical depth with policy relevance, the GCRA course aimed to help ensure that climate risk information is used more effectively to reduce vulnerability and strengthen resilience.
 > -[InsuResilience Solutions Fund](https://insuresilience-solutions-fund.org/2026/06/19/frankfurt-school-hosted-global-climate-risk-analysis-course-to-strengthen-climate-resilience-knowledge/)
 
